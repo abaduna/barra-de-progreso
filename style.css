@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1200px;
+    margin: 100px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1,h2{
+    width: 75px;
+    height: 75px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+#barra{
+    background-color: rgb(0, 0, 0);
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 9px;
+    
+}
